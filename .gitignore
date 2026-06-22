@@ -1,0 +1,13 @@
+# Node/OS artifacts
+.DS_Store
+Thumbs.db
+node_modules/
+
+# Agent/editor scratch spaces
+.agents/
+.gemini/
+brain/
+scratch/
+
+# Build targets
+Swift/
