@@ -54,7 +54,7 @@ Monolith uses a **semantic YAML trigger** inside the [SKILL.md](skills/monolith/
 
 ```yaml
 ---
-name: ai-coding-standards
+name: Monolith
 description: Enforces language-specific style guides (C++, Python, Java, JS, Shell, HTML/CSS), API specifications, database design, commit hygiene, and automated merge gates for AI editors and agents.
 ---
 ```
